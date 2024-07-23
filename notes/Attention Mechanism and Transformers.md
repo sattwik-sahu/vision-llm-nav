@@ -1,3 +1,8 @@
+---
+tags:
+  - articles/research
+  - notes
+---
 > [!help] Resources
 > **Article:**
 > - [[Attention-Is-All-You-Need_Google-Brain.pdf|Google Brain, Attention is All You Need]]
