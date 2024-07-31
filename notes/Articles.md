@@ -2,7 +2,7 @@
 
 - [ ] [Bordes, An Introduction to Vision-Language Modelling](obsidian://open?vault=research-vault&file=articles%2FAn-Introduction-to-Vision-Language-Modelling_Meta-AI.pdf)
 - [ ] [Xu, Vision and Language Navigation in the Real World via Online Visual Language Mapping](obsidian://open?vault=research-vault&file=articles%2FOnline-Vision-Language-Mapping.pdf)
-- [ ] [Yokoyama, VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](obsidian://open?vault=research-vault&file=articles%2FVLFM-Zero-Shot-Semantic-Navigation.pdf)
+- [x] [Yokoyama, VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](obsidian://open?vault=research-vault&file=articles%2FVLFM-Zero-Shot-Semantic-Navigation.pdf)
 - [ ] [Lian, DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking](obsidian://open?vault=research-vault&file=articles%2FDORT-Multi-Cam-3D-Object-Detection-and-Tracking.pdf)
 - [ ] [Huang, Audio Visual Language Maps for Robot Navigation](obsidian://open?vault=research-vault&file=articles%2FAudio-Visual-Language-Maps.pdf)
 - [ ] [LabelFormer: Object Trajectory Reﬁnement for Offboard Perception from LiDAR Point Clouds](https://openreview.net/pdf?id=9cTEQWMo1BF)

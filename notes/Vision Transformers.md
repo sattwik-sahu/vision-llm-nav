@@ -5,11 +5,9 @@ tags:
 url: https://arxiv.org/abs/2010.11929
 code: true
 ---
-
 > [!help] Resources 
 > 📄 **Article**
 > [[Vision-Transformers.pdf|Dosovitskiy, An Image is Worth 16x16 Words]]
-> 
 > :luc_github: GitHub
 > [Implementation](https://github.com/google-research/vision_transformer)
 
@@ -157,3 +155,4 @@ When trained on enormous datasets of 14M-300M examples, large scale training tru
 > We find that the model attends to image regions that are semantically relevant for classification
 
 [[articles/Vision-Transformers.pdf#page=8&selection=104,59,105,56|Vision-Transformers, page 8]]
+
